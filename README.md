@@ -1,38 +1,3 @@
-# 🎁 Donate DarkSSH
-<details>
- 
- 
- <summary><p><b> 👉 Click To View <b>⚡️ 🎁 Donate to give away great projects 🎁</b></b></p></summary>
- 
- ✅ USDT (ERC20)
-
-🔗 Link : 
- ```
-0x131356670439b225da71c86d8ce4672189595de4
- ```
- 
- ✅ BTC (BTC)
-
-🔗 Link : 
- ```
-1CrbfVWq6CJvbGw8oAEgtQaKb4kEHxNReJ
- ```
- 
- ✅ TRX (TRC20)
-
-🔗 Link : 
- ```
-TPPcVjDrKLzD3VDhjhKsPWwsRMTz6GAsZR
- ```
- 
- ✅ BUSD (BEP20)
-
-🔗 Link : 
- ```
-0x131356670439b225da71c86d8ce4672189595de4
- ```
-
-</details>
 
 # 📌DarkV2ray-Manager-Bot 0.2
 
@@ -73,12 +38,12 @@ TPPcVjDrKLzD3VDhjhKsPWwsRMTz6GAsZR
 
 ```
 sudo -s
-bash <(curl -Ls https://raw.githubusercontent.com/sbatrow/DarkV2ray-Manager-Bot/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/keshaka/V2ray-Manager-Bot/main/install.sh)
 ```
 
 ### Deploy Bot on Heroku🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sbatrow/DarkV2ray-Manager-Bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/keshaka/V2ray-Manager-Bot)
 
 
 ## :heavy_exclamation_mark: Requerimientos
