@@ -43,7 +43,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/keshaka/V2ray-Manager-Bot/main
 
 ### Deploy Bot on Heroku🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/keshaka/V2ray-Manager-Bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/keshaka/V2ray-Manager-Bot)
 
 
 ## :heavy_exclamation_mark: Requerimientos
